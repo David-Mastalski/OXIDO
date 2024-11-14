@@ -14,7 +14,7 @@ git clone https://github.com/David-Mastalski/OXIDO.git
 2. Otwórz plik index.js i przypisz do zmiennej KEY swój klucz OPENAI.
 
 ## Uruchomienie aplikacji
-Aby uruchomić program wpisz w terminalu komende:
+Aby uruchomić program wpisz w terminalu komendę:
 ```
 node index.js
 ``` 
