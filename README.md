@@ -5,3 +5,13 @@ Aplikacja umożliwia generowanie struktury HTML na podstawie artykułu zapisaneg
 
 ## Wymagania
 - Klucz API OpenAI
+
+## Instrukcja instalacji
+1. Skopiuj repozytorium na swój komputer. Użyj komendy: git clone https://github.com/David-Mastalski/OXIDO.git
+2. Otwórz plik index.js i przypisz do zmiennej KEY swój klucz OPENAI.
+
+## Uruchomienie aplikacji
+Aby uruchomić program wpisz w terminalu komende:
+```
+node index.js
+``` 
