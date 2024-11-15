@@ -12,10 +12,10 @@ Aplikacja umożliwia generowanie struktury HTML na podstawie artykułu zapisaneg
 git clone https://github.com/David-Mastalski/OXIDO.git
 ``` 
 2. Otwórz plik index.js i przypisz do zmiennej KEY swój klucz OPENAI.
+<img width="680" alt="Zrzut ekranu 2024-11-15 104037" src="https://github.com/user-attachments/assets/c1fdb1e6-6262-452e-b614-d468c061afb5">
 
 ## Uruchomienie aplikacji
 Aby uruchomić program wpisz w terminalu komendę:
 ```
 node index.js
 ``` 
-<img width="680" alt="Zrzut ekranu 2024-11-15 104037" src="https://github.com/user-attachments/assets/c1fdb1e6-6262-452e-b614-d468c061afb5">
